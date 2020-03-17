@@ -12,3 +12,6 @@
 * [疾管局COVID-19 中文](https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=1)
 * [疾管局COVID-19 英文](https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=1)
 
+其他非官方的資料來源（暫時還沒整理入的）：
+
+* [臺灣旅遊疫情建議分級](https://github.com/readr-media/readr-data/tree/master/covid-19)
