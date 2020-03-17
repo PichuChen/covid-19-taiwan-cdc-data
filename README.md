@@ -11,6 +11,7 @@
 
 * [疾管局COVID-19 中文](https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=1)
 * [疾管局COVID-19 英文](https://sites.google.com/cdc.gov.tw/2019ncov/taiwan?authuser=1)
+* [疾管局 RSS](https://www.cdc.gov.tw/RSS/RssXml/Hh094B49-DRwe2RR4eFfrQ?type=1)
 
 其他非官方的資料來源（暫時還沒整理入的）：
 
