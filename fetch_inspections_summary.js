@@ -3,9 +3,9 @@
 
 data = JSON.parse(chartData.chart.chartJson)
 rows = data.dataTable.rows
-嚴重特殊傳染性肺炎通報 = r.map(function(it){return it.c[1].v})
-居家檢疫送驗 = r.map(function(it){return it.c[2].v})
-疑似新冠病毒感染送驗 = r.map(function(it){return it.c[3].v})
+嚴重特殊傳染性肺炎通報 = rows.map(function(it){return it.c[1].v})
+居家檢疫送驗 = rows.map(function(it){return it.c[2].v})
+疑似新冠病毒感染送驗 = rows.map(function(it){return it.c[3].v})
 
 text嚴重特殊傳染性肺炎通報 = JSON.stringify(嚴重特殊傳染性肺炎通報, null, 20)
 text居家檢疫送驗 = JSON.stringify(居家檢疫送驗, null, 20)
